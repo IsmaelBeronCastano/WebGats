@@ -10,7 +10,7 @@ const Xarxes: React.FC = () => {
             <a href="https://www.facebook.com">
                 <FaFacebook color='#9333ea' size={80} />
             </a>
-            <a href="mailto:gatsdecatalunya699897@gmail.com">
+            <a href="mailto:gatscat999@gmail.com">
                 <FaEnvelope size={80} color='#9333ea' />
             </a>
         </div>

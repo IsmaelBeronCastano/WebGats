@@ -3,7 +3,7 @@ import { FaInstagram, FaFacebook, FaEnvelope } from 'react-icons/fa';
 
 const Xarxes: React.FC = () => {
     return (
-        <div className="flex gap-20 justify-center mb-10">
+        <div className="flex gap-16 justify-center mb-10">
             <a href="https://instagram.com">
                 <FaInstagram size={80} color='#000'/>
             </a>

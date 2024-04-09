@@ -81,7 +81,7 @@ const Main = () => {
         <div className= "sm:w-full md:w-2/4 md:mx-auto text-3xl text-center flex-wrap lora rounded-xl mt-4 mb-4">
           <a href="mailto:gatscat999@gmail.com">gatscat999@gmail.com</a></div>
         <p className="sm:w-full md:w-2/4 md:mx-auto text-center border-2 text-3xl border-black rounded-md bg-purple-300 mt-8 mb-3 p-1 lobster">Recorda que les donacions desgraven a la declaració d'Hisenda</p>
-        <p className="text-amber-400 alfa-slab text-6xl text-center mt-10 mb-10">XARXES</p>
+        <p className="text-black alfa-slab text-6xl text-center mt-10 mb-10">XARXES</p>
         <Xarxes />
       </section>
     </div>

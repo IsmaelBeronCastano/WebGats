@@ -15,7 +15,7 @@ return (
             IBAN: ES12 1234 1234 1234 1234 1234
             
             Castellano:
-            Necsitamos tu ayuda.
+            Necesitamos tu ayuda.
             estamos desbordados/as
             En época de cachorros/as, sin pienso y con deudas, necesitamos más que nunca tu ayuda.
             Por favor, colabora!

@@ -8,7 +8,7 @@ const Header = () => {
         </div>
         <div className="flex flex-col align-center">
           <h1 className="text-white font-bold text-7xl mx-auto alfa-slab pt-2">GATS</h1>
-          <p className="text-black font-bold text-xl lobster mx-auto pt-2 pb-3">Amics dels Gats i d'altres Animals de Catalunya</p>
+          <p className="text-white font-bold text-4xl caveat mx-auto pt-2 pb-3">Associació felina de suport</p>
         </div>
         <div className="flex flex-col  flex-start items-center pr-1">
             <a href="#" className="text-lg text-black rounded-md p-1 border-4 border-black lora mb-3 bg-white">bizzum: 999999999</a>

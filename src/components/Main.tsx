@@ -14,7 +14,7 @@ const Main = () => {
   return (
     <div className="container w-full h-full flex-row">
       <h2 className="text-4xl amatic-bold pt-4 mb-10 pl-2 text-center">Controlem colònies del carrer i mètode CER </h2>
-      <h3 className="text-2xl sm:w-5/6 md:1/4 rounded-lg p-3 alfa-slab text-center mx-auto bg-purple-600 text-white mb-8">NOTICIES</h3>
+      <h3 className="text-2xl w-5/6 md:w-1/4 rounded-lg p-3 alfa-slab text-center mx-auto bg-purple-600 text-white mb-8">NOTICIES</h3>
       <section className="w-full h-full flex justify-center">
         <Noticies />
       </section>

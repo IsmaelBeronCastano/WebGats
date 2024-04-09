@@ -76,7 +76,7 @@ const Main = () => {
           <p className="text-4xl amatic-bold pb-4"><span className="text-center border-2 border-black rounded-md bg-purple-300 mt-3 p-1">IBAN</span></p>
           <p className="text-4xl amatic-bold pt-4 pb-4"><span className="lora text-4xl">ES12 1234 1234 1234 1234 1234</span> </p>
         </div>
-        <p className="text-2xl text-center amatic-bold mt-4"><span className="text-purple-600 alfa-slab text-xl">FES-TE SOCI!!</span></p>
+        <p className="text-2xl text-center amatic-bold mt-4"><span className="text-purple-600 alfa-slab text-4xl">FES-TE SOCI!!</span></p>
         <p className="text-2xl text-center amatic-bold mt-4">Escull la frequència i la quota que millor et vagi, envians un correu per gestionar-ho!</p>
         <div className= "sm:w-full md:w-2/4 md:mx-auto text-3xl text-center flex-wrap lora rounded-xl mt-4 mb-4">
           <a href="mailto:gatscat999@gmail.com">gatscat999@gmail.com</a></div>
